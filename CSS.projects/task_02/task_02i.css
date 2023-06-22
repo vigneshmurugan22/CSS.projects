@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+}
+div{
+    background-color: white;
+    height: 500px;
+    width: 350px;
+    margin: auto; 
+}
+img{
+    margin: auto;
+    height: 200px;
+    width: 350px;
+}
+h3{
+    text-align: center;
+}
+input{
+    margin-left: 10px;
+    width: 200px;
+}
+#submit{
+    background-color: red;
+    color: white;
+    width: 100px;
+    text-align: center;
+}
