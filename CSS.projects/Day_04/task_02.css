@@ -1,0 +1,4 @@
+.para_first::first-letter{
+    color: blue;
+    font-size: 20px;
+}

@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(230, 12, 48);
+}
+.black{
+    color: white;
+    background-color: black;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px ;
+    padding-top: 10px;
+    position: relative;
+    top: 150px;
+    transform: rotate(-20deg);
+    margin-left: 400px;
+    margin-right: auto;
+    
+}
+.white01{
+    color: black;
+    background-color:white;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px ;
+    padding-top: 10px;
+    position: absolute;
+    top: 20px;
+    left: 230px;
+    transform: rotate(30deg);
+}
+.white02{
+    color: black;
+    background-color: white;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px ;
+    padding-top: 10px;
+    box-shadow: 0px 0px 10px black;
+}
+p,h2{
+    padding-left: 30px;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+.footercontent{
+    position: relative;
+    top: 250px;
+}

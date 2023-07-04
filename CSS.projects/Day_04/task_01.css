@@ -1,0 +1,4 @@
+ul li:first-child{
+    color: red;
+    background-color: rgb(220, 153, 124);
+}

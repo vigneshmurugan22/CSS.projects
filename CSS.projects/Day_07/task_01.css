@@ -1,0 +1,85 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=indie+Flower&display=swap');
+body{
+    background-color: rgb(208, 189, 189);
+    background-image: url(http://www.tinyworldapps.com/images/kid_transparent.png);
+    background-repeat: no-repeat;
+    background-size: 300px 700px;
+    background-position-x: left 900px;
+    background-position-y: top -20px;
+    font-family: 'Poppins', sans-serif;
+}
+.top_content{
+    display: inline-block;
+    margin-top: -2px;
+    color: white;
+}
+.top_content:nth-child(2){
+    padding-left: 300px;
+    width: 270px; 
+    font-size: small;
+}
+.top_content:nth-child(3){
+    width: 250px;
+    font-size: small;
+}
+h2::after{
+    content:".";
+    color: red;
+}
+h2{
+    margin-left: 350px;
+}
+li{
+    display: inline-block;
+    padding-left: 15px;
+}
+li:hover{
+    color: red;
+}
+.navigation{
+    background-color: white;
+    height: 30px;
+    width: 800px;
+    padding-top: 08px;
+    border-radius: 30px;
+    font-size: small;
+    margin-left: 350px;
+}
+.icon{
+    padding-left: 20px;
+}
+.facebook{
+    margin-left: 300px;
+}
+.body_content{
+    position: relative;
+    top: 100px;
+    left: 350px;
+    color: white;
+}
+.greeting{
+    font-family: 'Indie Flower',cursive;
+    color: red;
+    position: relative;
+    top: 20px;
+}
+.buttom_para{
+    font-size: 12px;
+    position: relative;
+    top: -20px;
+}
+button{
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+    height: 50px;
+    width: 100px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;  
+}
+h1{
+    font-size: 25px;
+    width: 250px;
+}

@@ -1,0 +1,42 @@
+body{
+    background-color: pink;
+}
+.body{
+    background-color: pink;
+    width: 350px;
+margin: auto;
+}
+img{
+    height: 250px;
+    width: 350px;
+}
+.content{
+    padding-top: 10px;
+    height: 300px;
+    width: 350px;
+    font-size: small;
+    background-color:white;
+    border-radius: 10px;
+    margin-top: -30px;
+    font-size: smaller;
+}
+.image{
+    height: 250px;
+    width: 350px;
+    background-image: url('https://images.newindianexpress.com/uploads/user/imagelibrary/2019/9/26/w900X450/newspapers-media-journalism.jpg?w=400&dpr=2.6');
+    background-size: cover;
+}
+p,h3,h2{
+    width: 300px;
+    padding-left: 10px;
+}
+button{
+    color: white;
+    background-color: black;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 10px;
+    text-align: center;
+    width:100px ;
+}

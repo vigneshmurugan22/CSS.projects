@@ -1,0 +1,10 @@
+a{ color: blue;
+}
+a:visited {
+    color: green;
+    background-color: blueviolet;
+  }
+::selection{
+    color:red;
+    background-color: yellow;
+}

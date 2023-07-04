@@ -1,0 +1,76 @@
+body{
+    background-color: aquamarine;
+}
+.topContent{
+    width: 500px;
+    height: 200px;
+    background-color:white;
+    font-size: small;
+    padding-left: 160px;
+    
+}
+.topimage{
+    float: left;
+    height: 200px;
+    width: 150px;
+}
+.topImage{
+    height: 200px;
+    width: 150px;
+}
+.heart{
+    float: right;
+    padding-right: 50px;
+    padding-top: -50px;
+}
+.top{
+    padding-left: 20px;
+}
+p{
+    width: 450px;
+}
+.bottom{
+    padding-left: 20px;
+    float: right;
+    margin-right: 670px;
+}
+.bottomContent{
+    width: 230px;
+    height: 100px;
+    background-color:white;
+    font-size: 8px;
+    padding-left: 90px;
+    
+}
+.bottomimage{
+    float: left;
+    height: 100px;
+    width: 80px;
+    margin-top: 10px;
+}
+.bottomImage{
+    height: 100px;
+    width: 80px;
+}
+.bottomleft{
+    padding-left: 20px;
+    border: 2px;
+}
+.bottomleftContent{
+    width: 230px;
+    height: 100px;
+    background-color:white;
+    font-size: 8px;
+    padding-left: 90px;
+    
+}
+.bottomleftimage{
+    float: left;
+    height: 100px;
+    width: 80px;
+}
+.bottomleftImage{
+    height: 100px;
+    width: 80px;
+}
+

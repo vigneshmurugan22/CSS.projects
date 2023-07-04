@@ -1,0 +1,13 @@
+body{
+  background-image: linear-gradient(skyblue,gray);
+
+}
+div{
+    margin-left: 500px;    
+    background-color: white;
+    height: 300px;
+    width: 400px;
+}
+ul{ 
+  list-style-type: square;
+}

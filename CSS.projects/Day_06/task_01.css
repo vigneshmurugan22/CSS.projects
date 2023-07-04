@@ -1,0 +1,135 @@
+body{
+    background-color: rgb(185, 238, 220);
+}
+.buttonIcon{
+    color: white;
+    font-size: 30px;
+}
+header{
+    margin:auto;
+    margin-top: 30px;
+    height: 1px;
+    width: 1px;
+    margin-top: 50px;
+}
+.top_icon{
+    padding-top: 10px;
+}
+.overAll{
+    background-color: white;
+    width:auto;
+    padding-left: 10px;
+    margin: auto;
+    margin-top: 50px;
+    width: 300px;
+    height: 420px;
+    text-align: center;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+.arrow_icon{
+    float: left;
+}
+.menu_icon{
+    float:right;
+    padding-right: 10px;
+}
+.heart_icon{
+    float: right;
+    margin-right: 10px;
+}
+.image{
+    height: 75px;
+    width: 75px;
+    border: 3px;
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 20px;
+}
+img{
+    height: 75px;
+    width: 75px;
+    border: 3px;
+    border-radius: 50px;
+}
+button{
+    background-color: rgb(216, 61, 131);
+    color: white;
+    border: 2px solid  rgb(216, 61, 131);
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+}
+.iconOne{
+    height: 30px;
+    width: 30px;
+    background-color: rgb(216, 61, 131);
+    border: 3px solid rgb(216, 61, 131);
+    border-radius: 50px;
+    float: left;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+.iconTwo{
+    height: 30px;
+    width: 30px;
+    background-color: rgb(0, 106, 255);
+    border: 3px solid rgb(0, 106, 255);
+    border-radius: 50px;
+    float: left;
+    margin-left: 50px;
+    margin-top: -10px;
+}
+.iconThree{
+    height: 30px;
+    width: 30px;
+    background-color:  rgb(0, 106, 255);
+    border: 3px solid  rgb(0, 106, 255);
+    border-radius: 50px;
+    float: left;
+    margin-left: 60px;
+    margin-top: -10px;
+}
+.fa-behance{
+    padding-top:6px;   
+}
+.fa-basketball{
+    padding-top:6px;    
+}
+.fa-twitter{
+    padding-top:6px;
+}
+.bottomIcons{
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h4{
+    margin-top: 8px;
+}
+p{ text-align: center;
+    margin-top: -20px;
+}
+hr{
+    max-width: 300px;
+}
+footer{
+    margin-top: 25px;
+}
+.java{
+    font-size: small;
+}
+.tickicon{
+    background-color: rgb(192, 7, 137);
+    width: 20px;
+    height: 20px;
+    border-radius: 25px;
+    margin-left: 50px;
+    margin-top: -20px;
+    z-index: 1;
+    position: relative;
+}
+.fa-check{
+    font-size: 10px;
+    margin-top: 5px;
+}

@@ -1,0 +1,40 @@
+body{
+   background-color: rgb(179, 206, 206);
+   color: rgb(2, 2, 2);
+}
+h1{ 
+   text-align: center;
+   color: red;
+   background-color: white;
+   
+}
+#img{
+    text-align: center;
+}
+h5,h4,h3{
+   color: rgb(255, 0, 13);
+   background-color:rgb(212, 188, 188);
+   width: fit-content;
+}
+#nav_color{
+   color: chocolate;
+   background-color: rgb(190, 207, 169);
+   width: fit-content;
+}
+th{
+   color: red;
+   background-color: aqua;
+}
+table{
+   border-color: blue;
+   background-color: bisque;
+}
+td{
+   text-align: center;
+}
+.diwa{ 
+   color: aqua;
+}
+.video{
+   background-color: azure;
+}

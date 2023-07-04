@@ -1,0 +1,49 @@
+ @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@300&display=swap');
+body{
+    background: linear-gradient(to right top,#fda23f,#fc3c39);
+    font-family: 'Lobster', cursive;
+font-family: 'Poppins', sans-serif;
+background-repeat: no-repeat;
+height: 640px;
+font-size: 12px;
+}
+.main{
+    margin-left: 430px;
+    position: relative;
+    top: 300px;
+}
+.color_box{
+    background: linear-gradient(to right top,#fe823c,#fc383a);
+    height: 200px;
+    width:200px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px black;
+    position: relative;
+    top: -68px;
+    right: 60px;
+}
+.content_box{
+    height: 250px;
+    width: 400px;
+    border-radius: 20px;
+    background-color: white;
+    padding-left: 180px;
+    margin-top: -300px;
+    position: relative;
+    z-index: -1;
+    padding-top: 20px;
+    box-shadow: 0px 0px 5px black;
+}
+button{
+    color: white;
+    background: linear-gradient(to right top,#fe823c,#fc383a);
+    border: 1px solid #fe823c;
+    border-radius: 20px;
+    height: 30px;
+    width: 100px;
+    font-size: smaller;
+    box-shadow: 0px 0px 5px black;
+}
+.content_box p{
+    width: 300px;
+}

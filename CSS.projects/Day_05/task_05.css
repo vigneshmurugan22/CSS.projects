@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(203, 242, 228);
+    text-align: center;
+    margin-left: 40px;
+}
+p{
+    max-width: 250px;
+    margin: auto;
+    text-align: justify;
+}
+div{
+    background-color: white;
+    width: 325px;
+    text-align: center;
+    height: 300px;
+    border-radius: 30px;
+    padding-top: 50px;
+    float: left;
+    margin-left: 80px;
+    margin-top: 100px;
+    box-shadow: -20px 10px 50px rgb(46, 45, 45)
+}
+#yellow{
+    background-color: yellow;
+    width: 250px;
+    margin-top: 30px;
+    border: 2px solid yellow;
+}
+#green{
+    background-color: green;
+    width: 250px;
+    margin-top: 30px;
+    border: 2px solid green;
+}
+#blue{
+    background-color: blue;
+    width: 250px;
+    margin-top: 30px;
+    border: 2px solid blue;
+}
+i{
+    padding-left: 20px;
+}
